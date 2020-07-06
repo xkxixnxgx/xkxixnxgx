@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - Linux, Virtualenv, Git, Nginx
 ####
 🤔 I would like to develop in software development, big data.
+####
 💬 Communities. Learn Python, Moscow Python.
+####
 📫 How to reach me. Telegram: @yury_bor, email: xkxixnxgx@yandex.ru.
 
