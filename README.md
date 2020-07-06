@@ -5,8 +5,10 @@
 Here are some ideas to get you started:
 -->
 
-####- 🔭 I completed courses in python programming and develop my projects, perform test tasks. I'm looking for a job now.
-####- 🌱 Current tech stack.
+####
+- 🔭 I completed courses in python programming and develop my projects, perform test tasks. I'm looking for a job now.
+####
+- 🌱 Current tech stack.
 ######
 Python3
 Flask
@@ -24,7 +26,6 @@ Git
 Nginx
 PyCharm
 Linux
-######
 ####
 - 🤔 I would like to develop in software development, big data.
 - 💬 Communities. Learn Python, Moscow Python.
