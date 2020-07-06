@@ -1,4 +1,4 @@
-### Hi guys 👋 I'm Yury Bor. I'm a Junior developer. 
+### Hi guys 👋 I'm Yury Bor. I'm a Junior Developer. 
 
 <!--
 **xkxixnxgx/xkxixnxgx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
