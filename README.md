@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - Python3, Pandas
 - Flask, Django, HTML, Bootstrap4
 - SQLAlchemy, SQL, SQLite, PostgreSQL, MySQL, MongoDB
-- Linux, Virtualenv, Git, Nginx
+- Linux, Pyenv, Virtualenv, Git, Nginx
 ####
 🤔 I would like to develop in software development, big data.
 ####
