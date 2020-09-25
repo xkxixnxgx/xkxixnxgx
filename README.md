@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 ####
 🌱 Current tech stack:
 - Python3, Pandas
-- Flask, Django, HTML, Bootstrap4
+- Flask, Django, HTML, CSS, Bootstrap4
 - SQLAlchemy, SQL, SQLite, PostgreSQL, MySQL, MongoDB
-- Linux, Pyenv, Virtualenv, Git, Nginx
+- Linux, Pyenv, Git, Nginx
 ####
 🤔 I would like to develop in software development, big data.
 ####
