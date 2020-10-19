@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 :arrow_right: In the near future, I will start a project on django. Watch for updates. :sunglasses:
 - Tech stack: django, js, html, css, postgres, sql, json, docker, unit testing,  CI.
 - Idea: This will be a web application to demonstrate my projects and knowledge that I have acquired over the past six months.
+***
 ####
 🤔 I would like to develop in software development, big data.
 ####
