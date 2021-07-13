@@ -10,15 +10,15 @@ Here are some ideas to get you started:
 ####
 🌱 Current tech stack:
 - Python3, Pandas
-- Flask, Django, HTML, CSS, Bootstrap4
+- Flask, Django, HTML, CSS, Bootstrap4, Tailwind
 - SQLAlchemy, SQL, SQLite, PostgreSQL, MySQL, MongoDB
-- Linux, Pyenv, Git, Nginx
+- Linux, Docker, Pyenv, Poetry, Git
 ####
 :open_file_folder: My main projects:
 ####
 ***
 :arrow_right: https://github.com/xkxixnxgx/spent_time
-- Tech stack: python 3.7, flask, bootstrap4, HTML5, SQLite, SQLAlchemy, migrations db, API, git, github, venv.
+- Tech stack: python 3.7, flask, bootstrap4, HTML5, SQLite, SQLAlchemy, migrations db, API, poetry.
 - Idea: Some people find it difficult to keep in mind goals that take a long time to achieve and yet time is distributed. We are solving this problem. We record the time spent on certain tasks and output statistics about how much time is spent on a particular task, and how intensely we devote ourselves to the task at hand.
 ####
 ***
