@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 🔭 I completed courses in python programming and develop my projects, perform test tasks. I'm looking for a job now.
 ####
 🌱 Current tech stack:
-- Python3, Pandas
+- Python3, JavaScript
 - Flask, Django, HTML, CSS, Bootstrap4, Tailwind
-- SQLAlchemy, SQL, SQLite, PostgreSQL, MySQL, MongoDB
+- SQLAlchemy, DRF, SQL, SQLite, PostgreSQL, MySQL, MongoDB, Pandas
 - Linux, Docker, Pyenv, Poetry, Git
 ####
 :open_file_folder: My main projects:
