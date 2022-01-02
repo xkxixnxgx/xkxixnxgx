@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - Idea: This will be a web application to demonstrate my projects and knowledge that I have acquired over the past six months.
 ***
 ####
-🤔 I would like to develop in software development, big data.
+🤔 I would like to develop in software development, big data, blockchain.
 ####
 💬 Communities. Learn Python, Moscow Python.
 ####
