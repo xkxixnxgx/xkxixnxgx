@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 🔭 I completed courses in python programming and develop my projects, perform test tasks. I'm looking for a job now.
 ####
 🌱 Current tech stack:
-- Python3, JavaScript
+- Python3, JavaScript, TypeScript
 - Flask, Django, HTML, CSS, Bootstrap4, Tailwind
 - SQLAlchemy, DRF, SQL, SQLite, PostgreSQL, MySQL, MongoDB, Pandas
 - Linux, Docker, Pyenv, Poetry, Git
@@ -32,9 +32,14 @@ Here are some ideas to get you started:
 - Idea: It's default CRUD. You can log in with your username, add an image, or write a comment to your image. And you can enjoy your library of images.
 ####
 ***
-:arrow_right: In the near future, I will start a project on django. Watch for updates. :sunglasses:
-- Tech stack: django, js, html, css, postgres, sql, json, docker, unit testing,  CI, deployment.
-- Idea: This will be a web application to demonstrate my projects and knowledge that I have acquired over the past six months.
+:arrow_right: https://github.com/xkxixnxgx/task_for_cs
+- Tech stack: typescript, ES6, eslint, jest, console app
+- Idea: The test solution made it possible to master the syntax and rules of TypeScript, the compilation process, working with types and interfaces.
+####
+***
+:arrow_right: https://github.com/xkxixnxgx/frontend-project-lvl1
+- Tech stack: javascript, eslint, console app
+- Idea: The first training project in the framework of the training program "frontend developer" at hexlet.io
 ***
 ####
 🤔 I would like to develop in software development, big data, blockchain.
