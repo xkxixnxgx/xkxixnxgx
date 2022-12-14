@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 ####
 🌱 Current tech stack:
 - Python3, JavaScript, TypeScript
-- Flask, Django, HTML, CSS, Bootstrap4, Tailwind
-- SQLAlchemy, DRF, SQL, SQLite, PostgreSQL, MySQL, MongoDB, Pandas
+- Flask, FastAPI, Django, HTML, CSS, Bootstrap4, Tailwind
+- SQLAlchemy, Alembic, DRF, SQL, SQLite, PostgreSQL, MySQL, MongoDB, Pandas
 - Linux, Docker, Pyenv, Poetry, Git
 ####
 :open_file_folder: My main projects:
