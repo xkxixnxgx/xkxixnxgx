@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 🔭 I completed courses in python programming and develop my projects, perform test tasks. I'm looking for a job now.
 ####
 🌱 Current tech stack:
-- Python3, JavaScript, TypeScript
-- Flask, FastAPI, Django, HTML, CSS, Bootstrap4, Tailwind
+- Python3, JavaScript, TypeScript, Solidity
+- Flask, FastAPI, Django, HTML, CSS, Bootstrap4, Tailwind, HardHat
 - SQLAlchemy, Alembic, DRF, SQL, SQLite, PostgreSQL, MySQL, MongoDB, Pandas
 - Linux, Docker, Pyenv, Poetry, Git
 ####
