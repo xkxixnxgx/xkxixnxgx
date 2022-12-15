@@ -1,4 +1,4 @@
-### Hi guys 👋 I'm Yury Bor. I'm a Backend Python Developer. 
+### Hi guys 👋 I'm Yury Bor. I'm Backend Python Developer. 
 
 <!--
 **xkxixnxgx/xkxixnxgx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
